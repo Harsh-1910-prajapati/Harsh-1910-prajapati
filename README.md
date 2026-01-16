@@ -44,7 +44,7 @@
 ### ⚙ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄 Databases
@@ -73,15 +73,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-1910-prajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-1910-prajapati&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-1910-prajapati&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=Harsh-1910-prajapati&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1910-prajapati&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-1910-prajapati&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-1910-prajapati&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-1910-prajapati&theme=darkhub" />
 </p>
 
 ---
@@ -97,13 +97,13 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harsh-1910-prajapati&icon=10&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=Harsh-1910-prajapati&icon=10&color=0" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
