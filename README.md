@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-prajapati" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-prajapati-ba5776350?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hpprajapati1910@gmail.com">
